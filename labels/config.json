@@ -1,18 +1,18 @@
 [
     {
-        "name":"todo",
+        "name":"To Do",
         "color":"#2876B8",
         "priority":1,
         "board":true
     },
     {
-        "name":"doing",
+        "name":"Doing",
         "color":"#fbca04",
         "priority":1,
         "board":true
     },
     {
-        "name":"done",
+        "name":"Done",
         "color":"#447708",
         "priority":1,
         "board":true
